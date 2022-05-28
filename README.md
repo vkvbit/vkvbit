@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vkvbit&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vkvbit&theme=vue)
 
 - 📫 How to reach me: hello@vkvbit.me
 - 🔗 My Portfolio: https://vkvbit.github.io https://vkvbit.me https://vaibhavkumar.rf.gd
@@ -40,7 +40,3 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vkvbit&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vkvbit&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vkvbit&theme=monokai&utcOffset=8)
-
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vkvbit&theme=vue)
-
