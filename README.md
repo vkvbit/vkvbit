@@ -5,7 +5,7 @@
 - ⚡ Fun fact: Most rare and expensive thing on EARTH is diamond. But in UNIVERSE, it is TREES.
 
 
-### Languages I aam good at:
+### Languages I am good at:
 
 <code><a href="https://en.wikipedia.org/wiki/JavaScript"><img alt="JavaScript" title="JavaScript" src="./cdn/img/js.png" height="42"></a></code>
 <code><a href="https://www.python.org/"><img alt="Python" title="Python" src="./cdn/img/python.png" height="42"></a></code>
