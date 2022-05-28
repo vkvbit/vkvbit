@@ -31,3 +31,5 @@
 
 ![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vkvbit&show_icons=true&theme=radical)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vkvbit&theme=vue)
+
