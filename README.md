@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vkvbit&theme=monokai)
+
 - 📫 How to reach me: hello@vkvbit.me
 - 🔗 My Portfolio: https://vkvbit.github.io https://vkvbit.me https://vaibhavkumar.rf.gd
 - ⚡ Fun fact: Most rare and expensive thing on EARTH is diamond. But in UNIVERSE, it is TREES.
@@ -28,6 +30,14 @@
 ### My GitHub stats:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=vkvbit&theme=onedark)](https://github.com/vkvbit/github-profile-trophy)
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vkvbit&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vkvbit&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vkvbit&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vkvbit&theme=monokai&utcOffset=8)
+
+
 
 ![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vkvbit&show_icons=true&theme=radical)
 
