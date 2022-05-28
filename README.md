@@ -33,7 +33,7 @@
 
 ### My Github contribution stats:
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-gitblock.svg)
 
 ### My GitHub trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=vkvbit&theme=onedark&row=1)](https://github.com/vkvbit/github-profile-trophy)
