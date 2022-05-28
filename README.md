@@ -39,4 +39,4 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vkvbit&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vkvbit&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vkvbit&theme=monokai)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vkvbit&theme=monokai&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vkvbit&theme=monokai&utcOffset=5)
