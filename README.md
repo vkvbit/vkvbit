@@ -7,4 +7,4 @@
 
 ### Environments I work with:
 
-<code><a href="https://blackarch.org/"><img alt="BlackArch Linux" title="BlackArch Linux" src="./cdn/img/blackarch.png" height="42" style="baackground-color:black;"></a></code>
+<code><a href="https://blackarch.org/"><img alt="BlackArch Linux" title="BlackArch Linux" src="./cdn/img/blackarch.png" height="42" style="background-color:black;"></a></code>
