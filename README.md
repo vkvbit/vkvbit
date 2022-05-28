@@ -14,7 +14,7 @@
 <code><a href="https://www.gnu.org/software/bash/"><img alt="Bash" title="Bash" src="./cdn/img/bash.png" height="42"></a></code>
 <code><a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img alt="C" title="C" src="./cdn/img/c.png" height="42"></a></code>
 <code><a href="https://www.java.com/"><img alt="Java" title="Java" src="./cdn/img/java.png" height="42"></a></code>
-
+<code><a href="https://in.mathworks.com/products/matlab.html"><img alt="MATLAB" title="MATLAB" src="./cdn/img/matlab.png" height="42"></a></code>
 
 
 
