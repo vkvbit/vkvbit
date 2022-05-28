@@ -31,8 +31,3 @@
 
 ![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vkvbit&show_icons=true&theme=radical)
 
-### PageSpeed score powered by [readme-pagespeed-insights](https://github.com/vkvbit/readme-pagespeed-insights)
-<p align="center">
-	<img align="center" src="./pagespeed.svg" width="800px">
-</p>
-
