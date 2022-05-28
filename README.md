@@ -23,3 +23,6 @@
 <code><a href="https://www.sublimetext.com/"><img alt="Sublime Text Editor" title="Sublime Text Editor" src="./cdn/img/sublime.png" height="42"></a></code>
 <code><a href="https://cloud.google.com/"><img alt="Google Cloud" title="Google Cloud" src="./cdn/img/gcloud.png" height="42"></a></code>
 <code><a href="https://azure.microsoft.com/en-in/"><img alt="Microsoft Azure" title="Microsoft Azure" src="./cdn/img/azure.png" height="42"></a></code>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vkvbit)](https://github.com/vkvbit/github-readme-stats)
