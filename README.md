@@ -29,17 +29,18 @@
 
 ### My GitHub stats:
 
+![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vkvbit&show_icons=true&theme=radical)
+
+### My GitHub trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=vkvbit&theme=onedark)](https://github.com/vkvbit/github-profile-trophy)
 
+### My GitHub Summary:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vkvbit&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vkvbit&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vkvbit&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vkvbit&theme=monokai&utcOffset=8)
 
-
-
-![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vkvbit&show_icons=true&theme=radical)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vkvbit&theme=vue)
 
