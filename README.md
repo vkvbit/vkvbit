@@ -31,10 +31,6 @@
 
 ![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vkvbit&show_icons=true&theme=radical)
 
-### My Github contribution stats:
-
-![](./profile-3d-contrib/profile-gitblock.svg)
-
 ### My GitHub trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=vkvbit&theme=onedark&row=1)](https://github.com/vkvbit/github-profile-trophy)
 
@@ -44,3 +40,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vkvbit&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vkvbit&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vkvbit&theme=monokai&utcOffset=5)
+
+### My GitHub contribution stats:
+
+![](./profile-3d-contrib/profile-gitblock.svg)
