@@ -25,4 +25,4 @@
 <code><a href="https://azure.microsoft.com/en-in/"><img alt="Microsoft Azure" title="Microsoft Azure" src="./cdn/img/azure.png" height="42"></a></code>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vkvbit)](https://github.com/vkvbit/github-readme-stats)
+[![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vkvbit)](https://github.com/vkvbit/github-readme-stats)
