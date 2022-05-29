@@ -46,5 +46,3 @@
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
 
-
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
