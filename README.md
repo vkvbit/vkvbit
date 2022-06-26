@@ -23,6 +23,7 @@
 <code><a href="https://blackarch.org/"><img alt="BlackArch Linux" title="BlackArch Linux" src="./cdn/img/blackarch.png" height="42"></a></code>
 <code><a href="https://github.com/"><img alt="GitHub" title="Github" src="./cdn/img/github.png" height="42"></a></code>
 <code><a href="https://www.sublimetext.com/"><img alt="Sublime Text Editor" title="Sublime Text Editor" src="./cdn/img/sublime.png" height="42"></a></code>
+<code><a href="https://jupyter.org/"><img alt="Jupyter Notebook" title="Jupyter Notebook" src="./cdn/img/jupyter.png" height="42"></a></code>
 <code><a href="https://cloud.google.com/"><img alt="Google Cloud" title="Google Cloud" src="./cdn/img/gcloud.png" height="42"></a></code>
 <code><a href="https://azure.microsoft.com/en-in/"><img alt="Microsoft Azure" title="Microsoft Azure" src="./cdn/img/azure.png" height="42"></a></code>
 
