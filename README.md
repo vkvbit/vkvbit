@@ -2,7 +2,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vkvbit&theme=vue)
 
-- 📫 How to reach me: vaibhav@vkvbit.me
+- 📫 How to reach me: vaibhav@vkvbit.live
 - 🔗 My Portfolio: https://vkvbit.github.io https://vkvbit.live https://vaibhavkumar.rf.gd
 - ⚡ Fun fact: Most rare and expensive thing on EARTH is diamond. But in UNIVERSE, it is TREES.
 
