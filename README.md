@@ -1,1 +1,1 @@
-<code><img alt="vkvbit" src="v.jpg"></code>
+<img alt="vkvbit" src="v.jpg">
